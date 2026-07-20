@@ -8,7 +8,6 @@ function Navbar() {
 
   const navLinks = [
     { name: "Home", href: "#home" },
-    { name: "Courses", href: "#courses" },
     { name: "Faculties", href: "#faculties" },
     { name: "Why Choose Us", href: "#why-choose-us" },
     { name: "Achievements", href: "#results" },
